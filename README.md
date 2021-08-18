@@ -8,10 +8,13 @@ Alternative hypothesis, Ha - represents a hypothesis of observations which are i
 Example
 suppose we wanted to check whether a coin was fair and balanced. A null hypothesis might say, that half flips will be of head and half will of tails whereas alternative hypothesis might say that flips of head and tail may be very different.
 
-H0:P=0.5Ha:P≠0.5
+H0:P=0.5
+Ha:P≠0.5
+
 For example if we flipped the coin 50 times, in which 40 Heads and 10 Tails results. Using result, we need to reject the null hypothesis and would conclude, based on the evidence, that the coin was probably not fair and balanced.
 
 Hypothesis Tests
+
 Following formal process is used by statistican to determine whether to reject a null hypothesis, based on sample data. This process is called hypothesis testing and is consists of following four steps:
 
 State the hypotheses - This step involves stating both null and alternative hypotheses. The hypotheses should be stated in such a way that they are mutually exclusive. If one is true then other must be false.
